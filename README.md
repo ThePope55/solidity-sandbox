@@ -6,3 +6,5 @@ Development requires node.js and several node modules
   -mocha
   -truffle
   -web3
+
+Use test.js files to run tests with mocha
